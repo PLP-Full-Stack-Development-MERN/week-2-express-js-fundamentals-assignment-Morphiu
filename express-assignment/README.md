@@ -28,9 +28,11 @@ This project is a RESTful API built with Express.js, providing endpoints for man
     * `PORT`: The port on which the server will run.
 
 4.  **Run the Application:**
+     
+     Open the project folder in terminal and run:
 
-    ```bash
-    npm start
+    ```
+    node index.js
     ```
 
     The server will start running on the specified port.
